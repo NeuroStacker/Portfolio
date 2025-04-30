@@ -87,7 +87,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **GitHub:** [@NeuroStacker](https://github.com/NeuroStacker)
 - **LinkedIn:** [Ronak Gupta](https://www.linkedin.com/in/guptaronak)
 - **Twitter:** [@ronakgupta730](https://twitter.com/ronakgupta730)
-
----
-
-Made with ❤️ by Ronak Gupta 
